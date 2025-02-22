@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Romain</h1>
-<h3 align="center">A computer science student from Belgium</h3>
+<h1 align="center">Hi 👋, I'm Romain Liefferinckx</h1>
+<h3 align="center">A second year student in computer science at ULB in belgium</h3>
 
 - 📫 How to reach me **romainliefferinckx@gmail.com**
 
