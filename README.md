@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Romain Liefferinckx</h1>
 
-<h3><br>I am a third year student in computer science at ULB in belgium.<br></h3>
+<h3><br>I am a M1 student in bioinformatic engineering at UGent in belgium.<br></h3>
 
 
 ## 🌐 Socials:
